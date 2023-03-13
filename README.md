@@ -20,7 +20,8 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/1Pw9mrsoTxNM8x7GEpFoSIw) (PSW: 9oqe)
 2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
-## Please cite the following paper if you use this repository in your research:
+## Citation
+Please cite the following paper if you use this repository in your research:
 ```
 @article{min2022mutual,
   title={Mutual-Guidance Transformer-Embedding Network for Video Salient Object Detection},

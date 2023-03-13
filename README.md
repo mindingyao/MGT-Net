@@ -3,10 +3,6 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 
 ![图片alt](./img/MGTNet.PNG "图片title")
 
-<center>这一行需要居中</center>
-
-<center><p>这里放标题</p></center>
-
 ## Usage
 
 **Each dataset corresponds to a txt path file, with each row arranged by img_path, gt_path and flow_path.**

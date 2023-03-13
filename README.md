@@ -1,6 +1,8 @@
 # MGT-Net
 Official code repository for paper [Mutual-Guidance Transformer-Embedding Network for Video Salient Object Detection](https://ieeexplore.ieee.org/abstract/document/9834060)
 
+![图片alt](/img/MGTNet.png "图片title")
+
 ## Usage
 
 **Each dataset corresponds to a txt path file, with each row arranged by img_path, gt_path and flow_path.**

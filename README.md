@@ -1,7 +1,7 @@
 # MGT-Net
 Official code repository for paper [Mutual-Guidance Transformer-Embedding Network for Video Salient Object Detection](https://ieeexplore.ieee.org/abstract/document/9834060)
 
-![图片alt](/img/MGTNet.png "图片title")
+![图片alt](./img/MGTNet.PNG "图片title")
 
 ## Usage
 

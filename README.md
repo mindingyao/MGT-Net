@@ -3,7 +3,7 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 
 ![图片alt](./img/MGTNet.PNG "Magic Gardens")
 
-*Overall framework of the proposed MGT-Net. The two input streams (RGB and OF) use the same symmetric network structure.*
+<center>*Overall framework of the proposed MGT-Net. The two input streams (RGB and OF) use the same symmetric network structure.*</center>
 
 ## Usage
 

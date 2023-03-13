@@ -1,7 +1,12 @@
 # MGT-Net
 Official code repository for paper [Mutual-Guidance Transformer-Embedding Network for Video Salient Object Detection](https://ieeexplore.ieee.org/abstract/document/9834060)
 
-![图片alt](./img/MGTNet.PNG "图片title")
+<p align="center">
+    <img src="./img/MGTNet.PNG" width="100%"/> <br />
+ <em> 
+    Overall framework of the proposed MGT-Net. The two input streams (RGB and OF) use the same symmetric network structure.
+    </em>
+</p>
 
 ## Usage
 
@@ -23,6 +28,13 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
 ![图片alt](./img/result.PNG "图片title")
+
+<p align="center">
+    <img src="./img/result.PNG" width="100%"/> <br />
+ <em> 
+    QUANTITATIVE COMPARISON WITH SOTA METHODS ON FIVE PUBLIC DATASETS IN TERM OF THREE METRICS. THE TOP THREE RESULTS ARE HIGHLIGHTED IN RED, GREEN, AND BLUE, RESPECTIVELY. OF COLUMN MEANS IF OF IS USED AS INPUT.
+    </em>
+</p>
 
 ## Citation
 Please cite the following paper if you use this repository in your research:

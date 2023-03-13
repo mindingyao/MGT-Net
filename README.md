@@ -2,6 +2,7 @@
 Official code repository for paper [Mutual-Guidance Transformer-Embedding Network for Video Salient Object Detection](https://ieeexplore.ieee.org/abstract/document/9834060)
 
 ![图片alt](./img/MGTNet.PNG ""Magic Gardens"")
+
 *Overall framework of the proposed MGT-Net. The two input streams (RGB and OF) use the same symmetric network structure.*
 
 ## Usage

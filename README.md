@@ -27,8 +27,6 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/1Pw9mrsoTxNM8x7GEpFoSIw) (PSW: 9oqe)
 2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
-![图片alt](./img/result.PNG "图片title")
-
 <p align="center">
     <img src="./img/result.PNG" width="100%"/> <br />
  <em> 

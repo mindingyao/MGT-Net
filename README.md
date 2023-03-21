@@ -19,13 +19,13 @@ Official code repository for paper [Mutual-Guidance Transformer-Embedding Networ
 - Run `CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node=4 train_distribute.py`
 
 ### Testing
-1. Download the test dataset  (containing DAVIS16, DAVSOD, FBMS, SegTrack-V2, VOS and ViSal) from [Baidu Driver] (https://pan.baidu.com/s/1F2RrcgJylUMYkWiUAoaL2A) (PSW:wuqv).
+1. Download the test dataset  (containing DAVIS16, DAVSOD, FBMS, SegTrack-V2, VOS and ViSal) from [Baidu Driver](https://pan.baidu.com/s/1F2RrcgJylUMYkWiUAoaL2A) (PSW:wuqv).
 2. Download the final trained model from [Baidu Driver](https://pan.baidu.com/s/1ldgE0fYF2rFzrCHonVLmrw) (PSW:yl8s).
 3. Run `python test.py`.
 
 ## Result
-1. The saliency maps can be download from [Baidu Driver] (https://pan.baidu.com/s/1Pw9mrsoTxNM8x7GEpFoSIw) (PSW: 9oqe)
-2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark] (https://github.com/DengPingFan/DAVSOD).
+1. The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/1Pw9mrsoTxNM8x7GEpFoSIw) (PSW: 9oqe)
+2. Evaluation Toolbox: We use the standard evaluation toolbox from [DAVSOD benchmark](https://github.com/DengPingFan/DAVSOD).
 
 <p align="center">
     <img src="./img/result.PNG" width="100%"/> <br />

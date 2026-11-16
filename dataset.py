@@ -71,7 +71,7 @@ class Dataset(data.Dataset):
         if self.return_size:
             sample['size'] = torch.tensor(size)
         if self.datas_id[item]['dataset'] == 'DUTS-TR':
-            sample['flow'] = torch.zeros((3, 512, 512))
+            sample['flow'] = torch.zeros_like(sample['image'])
         name = self.datas_id[item]['gt_path'].split('/')[-1]
         sample['dataset'] = self.datas_id[item]['dataset']
         sample['split'] = self.datas_id[item]['split']
